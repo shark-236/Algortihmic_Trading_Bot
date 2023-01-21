@@ -49,19 +49,23 @@ Initialize the imports and follow along for calculations and analsysis.
 
 ## Report Summaries
 
-Standard Algorithm:  
-Performance:   
+The Baseline Algorithm is per the standard code unaltered. The Date Offset Adjusted Algorithm changes the 'DateOffset' parameter to 6 (from 3 originally). The Window Adjusted Algorithm reverts the 'DateOffset' and changes the SMA Short Window to 7 and the SMA Long Window to 50. 
+ 
+Baseline Algorithm Performance:   
 <img src="Resources/baseline strategy performance.png">
-Report:  
 
-
-Date Offset Adjusted Algorithm:  
-Performance:  
-Report:  
-
-Window Adjusted Algorithm:   
-Performance:  
-Report:  
+Baseline Algorithm Report:  
+<img src="Resources/baseline strategy report.png">
+ 
+Date Offset Adjusted Algorithm Performance:  
+<img src="Resources/tuned date offset performance.png">
+Date Offset Adjusted Algorithm Report:  
+<img src="Resources/tuned date offset report.png">
+  
+Window Adjusted Algorithm Performance:  
+<img src="Resources/tuned window performance.png">
+Window Adjusted Algorithm Report:  
+<img src="Resources/tuned window report.png">
 
 ---
 
