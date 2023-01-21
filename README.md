@@ -47,6 +47,25 @@ Initialize the imports and follow along for calculations and analsysis.
 
 ---
 
+## Report Summaries
+
+Standard Algorithm:  
+Performance:   
+
+Report:  
+
+
+Date Offset Adjusted Algorithm:  
+Performance:  
+Report:  
+
+Window Adjusted Algorithm:   
+Performance:  
+Report:  
+
+---
+
+
 ## Contributors 
 
 Shahrukh Alam
