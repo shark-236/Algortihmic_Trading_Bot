@@ -51,7 +51,7 @@ Initialize the imports and follow along for calculations and analsysis.
 
 Standard Algorithm:  
 Performance:   
-
+<img src="Resources/baseline strategy performance.png">
 Report:  
 
 
