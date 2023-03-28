@@ -1,4 +1,4 @@
-# Module_14_Challenge
+# Algorithmic Trading Bot
 Goal: To create an algorithmic trading bot that learns and adapts to new markets. Existing trading signals are fed into machine learning algorithms that can adapt to new data.  
 
 ---
